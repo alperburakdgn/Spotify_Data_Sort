@@ -4,6 +4,7 @@ import java.util.*;
 public class SortData {
     public static void main(String[] args)
     {
+        // you need to give your file path here
         String filePt = "YOU NEED WRITE YOUR .JSON FILES FILE PATH";
         addData(filePt);
     }
